@@ -82,7 +82,7 @@
                             </ul>
                         </div>
                         <div class="mt-topbar-right clearfix">
-                            <div class="appint-btn"><a href="#" class="site-button">Make an Appointment</a></div>                            
+                            <div class="appint-btn"><a href="#" class="site-button">Make an Appointments</a></div>                            
                         </div>
                     </div>
                 </div>
