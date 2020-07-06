@@ -60,7 +60,7 @@
                                 <h4 class="widget-title">Contact Us</h4>
                                 <ul class="widget_address">
                                     <li>34 Rathinakari Street, Vellore, Tamil Nadu</li>
-                                    <li>info@svtinfra.com</li>
+                                    <li>info@svtinfra.com/li>
                                     <li>(+298) 012-3456-789</li>
                                     <li>(+298) 146-6543-480</li>
                                 </ul>
