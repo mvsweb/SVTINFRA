@@ -1,0 +1,18 @@
+{
+    "short_name": "PWA1",
+    "name": "My PWA 1st Prototype",
+    "icons": [
+      {
+        "src": "/images/svt infra.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/svt-favicon.jpg",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+   
+  }

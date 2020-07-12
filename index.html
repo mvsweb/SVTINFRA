@@ -22,6 +22,8 @@
     
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="manifest" href="manifest.json">
+   
     
     
     <!-- BOOTSTRAP STYLE SHEET -->
@@ -1214,8 +1216,7 @@
 
   </div>
 </div>
-=======
->>>>>>> 269d317ac5cbf88eb71d72efe65b9b7274f59799
+
 
 <!-- JAVASCRIPT  FILES ========================================= --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -1272,6 +1273,12 @@
 
 <!-- REVOLUTION SLIDER SCRIPT FILES -->
 <script  src="js/rev-script-1.js"></script>
+   <script>
+        //if browser support service worker
+        if('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('sw.js');
+        };
+      </script>
 
 </body>
 
